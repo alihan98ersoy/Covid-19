@@ -2,8 +2,7 @@
 
 This is covid-19 monitoring application which built with flutter.
 
-![](Medya1.gif)
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+![](https://github.com/alihan98ersoy/Covid-19/blob/master/Media/media.gif)
 
 ## Description:
 
