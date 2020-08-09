@@ -11,7 +11,7 @@ With this application you can view the current covid-19 situation in your countr
 
 
 <br>
-[Download APK](https://github.com/alihan98ersoy/Covid-19/blob/master/APK/covid19.apk)
+[Download APK](https://github.com/alihan98ersoy/Covid-19/raw/master/APK/covid19.apk)
 
 
 
