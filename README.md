@@ -1,6 +1,6 @@
 # Covid-19
 
-This is covid-19 monitoring application which built with flutter.Test
+This is covid-19 monitoring application which built with flutter.
 
 ![](Media/media.gif)
 
